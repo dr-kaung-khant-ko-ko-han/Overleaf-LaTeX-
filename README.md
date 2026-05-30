@@ -2,20 +2,17 @@
 
 Pyidaungsu ဖောင့် သုံးမယ်ဆိုရင် Overleaf ထဲကို ဖောင့်ဖိုင် တင်ပြီး XeLaTeX/LuaLaTeX နဲ့ compile လုပ်ရပါမယ်။
 
----
 
 ### ၁။ Pyidaungsu ဖောင့်ဖိုင်ရယူပါ
 Pyidaungsu ဖောင့်ကို ကွန်ပျူတာထဲတွင် ရှိပြီးသားဆိုရင် `.ttf` (သို့) `.otf` ဖိုင်ကို Overleaf project ထဲ တင်ပါ။  
 မရှိသေးရင် **Pyidaungsu** ဖောင့်ကို အွန်လိုင်းမှ ဒေါင်းလုဒ်လုပ်ပြီး `Pyidaungsu-Regular.ttf` စသဖြင့် သိမ်းထားပါ။
 
----
 
 ### ၂။ Overleaf ထဲ ဖောင့်ဖိုင်တင်ပါ
 1. Overleaf project ထဲဝင်ပါ။  
 2. ဘယ်ဘက်ရှိ **ဖိုင်တွဲ (folder) icon** ကိုနှိပ်ပြီး **Upload** မှ ဖောင့်ဖိုင်ကို တင်ပါ။  
    (ဖိုင်နာမည်ကို English လိုပဲထားပါ၊ ဥပမာ - `Pyidaungsu-Regular.ttf`)
 
----
 
 ### ၃။ Compiler ကို XeLaTeX ရွေးပါ
 **Menu** → **Compiler** → `XeLaTeX` (သို့) `LuaLaTeX` ရွေးပေးပါ။
@@ -73,4 +70,4 @@ Pyidaungsu မှာ Bold ဖိုင်ရှိရင် (ဥပမာ `Pyida
 
 ---
 
-အခုဆိုရင် Overleaf ပေါ်မှာ Pyidaungsu ဖောင့်နဲ့ မြန်မာစာ လှလှပပပေါ်လာပါလိမ့်မယ်။ စမ်းကြည့်ပြီး အဆင်မပြေတာရှိရင် ထပ်မေးနိုင်ပါတယ်။
+အခုဆိုရင် Overleaf ပေါ်မှာ Pyidaungsu ဖောင့်နဲ့ မြန်မာစာ လှလှပပပေါ်လာပါလိမ့်မယ်။ 
